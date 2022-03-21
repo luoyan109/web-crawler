@@ -1,5 +1,5 @@
 # 初探網路爬蟲
-#### 首先，需要了解網站內容才能夠進行爬蟲。但如果不知道原始碼在寫什麼怎麼辦?接下來先以氣象觀測資料網站來做練習! <br> ->[[點擊前往氣象局觀測資料網站]](https://e-service.cwb.gov.tw/HistoryDataQuery/index.jsp)
+#### 首先，需要了解網站內容才能夠進行爬蟲。但不了解原始碼的內容怎麼辦?接下來先以氣象觀測資料網站來做練習! <br> ->[[點擊前往氣象局觀測資料網站]](https://e-service.cwb.gov.tw/HistoryDataQuery/index.jsp)
 
 <p><br></p>
 
