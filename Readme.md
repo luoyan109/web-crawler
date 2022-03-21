@@ -13,10 +13,10 @@
 
 URL解讀:
 1. https://e-service.cwb.gov.tw/HistoryDataQuery/MonthDataController.do 協議/存放資料位置/歷史查詢/月份查詢
-2.'?'為分隔:分開前後區塊，後方為引數開頭，&為引數連線:將後方各個引數連接起來
+2. '?'為分隔:分開前後區塊，後方為引數開頭，'&'為引數連線:將後方各個引數連接起來
 3. command=viewMain&station=C0C700 :查看測站編號C0C700
 4. stname=%25E4%25B8%25AD%25E5%25A3%25A2 :測站名稱=encodeURI("中壢")
-5.datepicker=2022-03 :時間查詢範圍 ，altitude=151.0m :海拔高度151.0m
+5. datepicker=2022-03 :時間查詢範圍 ，altitude=151.0m :海拔高度151.0m
 ```
 ### 補充:[URL字串解碼網站](https://youtils.cc/urldecoder/zh-Hants)
 + encode:編碼 / decode:解碼 
