@@ -39,6 +39,6 @@ URL解讀:
 
 ### 補充:檢查功能介紹
 + 選取網頁元素:可以選擇一個想要檢視的區塊，這樣就可以清楚知道單一區塊的程式碼內容
-+ 
+
 <p align="center"><img src="https://raw.githubusercontent.com/luoyan109/web-crawler/main/image/15.PNG" width=750px></p>
 
