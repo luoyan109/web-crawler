@@ -1,4 +1,4 @@
-# 初探網路爬蟲
+# 初探網路爬蟲---原始碼中的奧妙
 ### 首先，需要了解網站的內容才能夠進行爬蟲，而從網站的原始碼可以得知內部訊息。<br>那麼接下來就先以氣象觀測資料網站來做練習! <br>  <br>->[[點擊前往氣象局觀測資料網站]](https://e-service.cwb.gov.tw/HistoryDataQuery/index.jsp)
 
 <p><br></p>
@@ -27,8 +27,18 @@ URL解讀:
 <p><br></p>
 
 > ### 3.利用檢查功能，查看氣象局網站原始碼與網站的關聯。
-> #### 對網頁按下滑鼠右鍵選擇"檢查"，就可以叫出網頁檢查面板。
-<p align="center"><img src="https://raw.githubusercontent.com/luoyan109/web-crawler/main/image/%E6%AA%A2%E6%9F%A5.PNG" width=750px></p>
+> #### + 對網頁按下滑鼠右鍵選擇"檢查"，可以呼叫出網頁檢查面板。
+> #### + 如果想要取得完整原始碼，以對網頁按下滑鼠右鍵，選取"檢視網站原始碼"即可。
+
+<p> <br></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/luoyan109/web-crawler/main/image/%E6%AA%A2%E6%9F%A5.PNG" width=750px><br>^上圖為檢查介面的模樣(畫面右邊)</p>
+
+
+<p> <br></p>
 
 ### 補充:檢查功能介紹
-+ 可點選檢查見面左上角之滑鼠符號:可以選擇一個想要檢視的區塊，這樣就可以清楚知道單一網頁區塊的程式碼內容
++ 選取網頁元素:可以選擇一個想要檢視的區塊，這樣就可以清楚知道單一區塊的程式碼內容
++ 
+<p align="center"><img src="https://raw.githubusercontent.com/luoyan109/web-crawler/main/image/15.PNG" width=750px></p>
+
