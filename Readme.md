@@ -42,3 +42,10 @@ URL解讀:
 
 <p align="center"><img src="https://raw.githubusercontent.com/luoyan109/web-crawler/main/image/15.PNG" width=750px></p>
 
+<p> <br></p>
+
+>### 4.原始碼拆解:</P>
+1. `<html>`: 超文本標記語言，是一種用於建立網頁的標準標記語言。
+2. `<head>`: 用來描述網頁的內容，如標題、樣式佈景、縮圖等。
+3. `<body>`: 
+ 
